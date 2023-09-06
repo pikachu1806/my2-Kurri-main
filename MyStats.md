@@ -15,6 +15,12 @@ I love learning new languages and I am a person who is enthusiastic in travellin
 |`Cricket`|Team Work|7 hours|
 |`Football`|Body Strengthening|4 hours|
 
+---
+### Inspirational Quotes By Scientists
+
+> “A person who never made a mistake never tried anything new.” - *Albert Einstein*
+
+>“The progressive development of man is vitally dependent on invention.” - *Nikola Tesla* 
 
 
 
