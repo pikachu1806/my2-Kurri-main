@@ -1,6 +1,6 @@
 
 # Madhushree Kurri
-###### Dehradun
+### Dehradun
 
 Dehradun I love this place because of its greenery and chilling effect.
 **Its famous for its pahadi maggie**
@@ -25,5 +25,6 @@ and **its culture**.
 * Chole Kulche
 * Dehradun Special Tea and Coffee
 
+---
 
-
+[Click here for MyStats](MyStats.md)
