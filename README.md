@@ -16,5 +16,14 @@ and **its culture**.
     3. Aloo Tikki
 3. Cultural Temples
 
+## Dishes that are famous in Dehradun
+
+* Momos
+    * Panner Momos
+    * Chicken tikki Momos
+    * Veggie loaded Momos
+* Chole Kulche
+* Dehradun Special Tea and Coffee
+
 
 
